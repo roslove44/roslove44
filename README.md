@@ -70,7 +70,7 @@ Exploring how **AI + financial data** can:
 
 ## 📫 How To Reach Me
 
-🌐 **Portfolio:** [https://rostand-migan.com](https://rostand-migan.com)  
+🌐 **Portfolio:** [https://rostand.dev](https://rostand.dev)  
 💬 Always open for discussions, collaborations and new challenges.
 
 ---
