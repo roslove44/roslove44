@@ -23,13 +23,11 @@ I combine **technical execution** with **financial understanding** to build usef
 
 **Frontend**  
 - JavaScript / TypeScript  
-- React / Next.js  
-- Twig  
+- React / Next.js
+- Tailwind CSS
 
 **Data & Analytics**  
 - Python  
-- R  
-- Power BI  
 - Excel / VBA  
 
 **Other Interests**  
