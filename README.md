@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Rostand
 
-🚀 **Self-taught Web Developer | FinTech & Open-Source Enthusiast**  
-🎯 Building impactful digital tools for business management & finance
+- **Self-taught Web Developer | FinTech & Open-Source Enthusiast**  
+- Building impactful digital tools for business management & finance
 
 ---
 
@@ -35,24 +35,6 @@ I combine **technical execution** with **financial understanding** to build usef
 - Financial Data Analysis  
 - ERP Systems  
 - Automation & Process Optimization
-
----
-
-## 🌱 What I'm Currently Working On
-
-### 🧾 **Compta Open**
-An open-source platform dedicated to **democratizing accounting, taxation and financial management**, mainly in West Africa.
-
-- 📚 Free & paid resources  
-- 🧮 Practical management tools  
-- 🧑‍💼 Community-driven knowledge base  
-- 🔮 Long-term vision: **ComptaOpenLabs**, a collaborative ERP adapted to local tax systems (UEMOA)
-
-### 🤖 AI & Finance
-Exploring how **AI + financial data** can:
-- detect accounting anomalies  
-- support financial control  
-- provide real-time market insights for traders and analysts
 
 ---
 
