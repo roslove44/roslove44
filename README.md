@@ -1,58 +1,32 @@
-# 👋 Hi, I'm Rostand
+# Hi, I'm Rostand 👋
 
-- **Self-taught Web Developer | FinTech & Open-Source Enthusiast**  
-- Building impactful digital tools for business management & finance
+Self-taught Full-Stack Developer with a background in Financial & Accounting Management.
+I build business tools that simplify management, accounting and decision-making.
 
----
+### Stack
 
-## 🧠 About Me
+**Backend** · PHP (Symfony) · AdonisJS · Node.js · Go
 
-I'm a passionate self-taught developer with a background in **Financial & Accounting Management**.  
-My mission is simple: **use technology to simplify management, accounting and decision-making**, especially for growing businesses and communities.
+**Frontend** · TypeScript · React / Next.js · Tailwind CSS
 
-I combine **technical execution** with **financial understanding** to build useful, scalable and meaningful products.
+**Data** · Python · PostgreSQL · Redis · MongoDB
 
----
+**Infra** · Docker · Linux · GitHub Actions · Vercel
 
-## 🛠️ Tech Stack
+### Currently building
 
-**Backend**  
-- PHP (Symfony)  
-- AdonisJS  
-- Node.js  
+**ComptaOpen** :: Open platform accounting for growing businesses
 
-**Frontend**  
-- JavaScript / TypeScript  
-- React / Next.js
-- Tailwind CSS
+### Open to collaborate on
 
-**Data & Analytics**  
-- Python  
-- Excel / VBA  
-
-**Other Interests**  
-- Artificial Intelligence  
-- Financial Data Analysis  
-- ERP Systems  
-- Automation & Process Optimization
+Web apps for businesses · FinTech · Open-source management tools · Automation
 
 ---
 
-## 🤝 I'm Open To Collaborate On
-
-- Web applications for businesses  
-- FinTech & accounting solutions  
-- Open-source management tools  
-- Data & automation projects  
-- ERP / business software
-
----
-
-## 📫 How To Reach Me
-
-🌐 **Portfolio:** [https://rostand.dev](https://rostand.dev)  
-💬 Always open for discussions, collaborations and new challenges.
-
----
+<p>
+  <a href="https://rostand.dev">rostand.dev</a> ·
+  <a href="https://linkedin.com/in/rostand-migan">LinkedIn</a> ·
+  <a href="https://x.com/migan_rostand">X</a>
+</p>
 
 > *"Build things that solve real problems. Impact will follow."*
