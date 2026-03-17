@@ -5,7 +5,7 @@ I build business tools that simplify management, accounting and decision-making.
 
 ### Stack
 
-**Backend** · PHP (Symfony) · AdonisJS · Node.js · Go
+**Backend** · PHP (Symfony) · AdonisJS · Node.js · Go· Python
 
 **Frontend** · TypeScript · React / Next.js · Tailwind CSS
 
