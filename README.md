@@ -15,7 +15,7 @@ I build business tools that simplify management, accounting and decision-making.
 
 ### Currently building
 
-**ComptaOpen** :: Open platform accounting for growing businesses
+**ComptaOpen** : Open platform accounting for growing businesses
 
 ### Open to collaborate on
 
@@ -28,5 +28,3 @@ Web apps for businesses · FinTech · Open-source management tools · Automation
   <a href="https://linkedin.com/in/rostand-migan">LinkedIn</a> ·
   <a href="https://x.com/migan_rostand">X</a>
 </p>
-
-> *"Build things that solve real problems. Impact will follow."*
